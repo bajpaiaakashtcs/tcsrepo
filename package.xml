@@ -10,6 +10,8 @@
     </types>
     <types>
         <members>GSO Basic User_Salesforce</members>
+		
+		HELLO TEST
         <name>Profile</name>
     </types>
     <version>34.0</version>
